@@ -1,0 +1,396 @@
+********************************************
+-Board =D/41JCT-LS #3 in slot 4/7 Bus = 4 Slot = 7 Platform = SPRINGWARE Found
+Saved updated board name = D/41JCT-LS #3 in slot 4/7
+Opening Channel, VOXDevice = 1
+Opening Channel, VOXDevice = 3
+Starting Adaption on Board D/41JCT-LS #3 in slot 4/7
+Starting Adaption on Channel 1
+Testing Set A on channel 1
+*****Setting CoefficentSet A on Logical Id 3 ,channel 1*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=1] 
+Checking Line Activity Using 1 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 29.9600029
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 31.8199968
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 36.1800003
+Echo Rejection Factor = 219.660006 
+ Previous Optimum Time = 0, Current Optimum Time = 219.660006
+Current Optimum Time is > then previous time. We Need to keep finding Opt Coeff
+If Last Parm then it is Optimum
+Testing Set B on channel 1
+*****Setting CoefficentSet B on Logical Id 3 ,channel 1*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=1] 
+Checking Line Activity Using 1 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 33.380003
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 36.500001
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 39.9399996
+Echo Rejection Factor = 246.460013 
+ Previous Optimum Time = 219.660006, Current Optimum Time = 246.460013
+Current Optimum Time is > then previous time. We Need to keep finding Opt Coeff
+If Last Parm then it is Optimum
+Testing Set C on channel 1
+*****Setting CoefficentSet C on Logical Id 3 ,channel 1*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=1] 
+Checking Line Activity Using 1 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 33.3799982
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 33.6800003
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 31.8200016
+Echo Rejection Factor = 232.699995 
+ Previous Optimum Time = 246.460013, Current Optimum Time = 232.699995
+Current Optimum Time is less then previous time. We have optimized the circuit
+Testing Set D on channel 1
+*****Setting CoefficentSet D on Logical Id 3 ,channel 1*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=1] 
+Checking Line Activity Using 1 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 31.5199995
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 29.6400023
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 26.8200016
+Echo Rejection Factor = 212.180004 
+ Previous Optimum Time = 246.460013, Current Optimum Time = 212.180004
+Current Optimum Time is less then previous time. We have optimized the circuit
+Testing Set E on channel 1
+*****Setting CoefficentSet E on Logical Id 3 ,channel 1*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=1] 
+Checking Line Activity Using 1 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 29.0199995
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 25.8799982
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=1] 
+Successful Call On ChannelNumber 1 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 23.0999994
+Echo Rejection Factor = 190.939994 
+ Previous Optimum Time = 246.460013, Current Optimum Time = 190.939994
+Current Optimum Time is less then previous time. We have optimized the circuit
+------------------------------------------------
+*Optimum Setting Found For BoardName D/41JCT-LS #3 in slot 4/7 Channel 1*
+*CoefficentSet= RXGAIN_0 OptimumCoefficent id = B*
+*LAU Time =246.460013**
+------------------------------------------------
+*****Setting CoefficentSet B on Logical Id 3 ,channel 1*****
+Starting Adaption on Channel 2
+Testing Set A on channel 2
+*****Setting CoefficentSet A on Logical Id 3 ,channel 2*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=3] 
+Checking Line Activity Using 2 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 37.7600002
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 32.7600002
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 29.0199995
+Echo Rejection Factor = 245.580001 
+ Previous Optimum Time = 0, Current Optimum Time = 245.580001
+Current Optimum Time is > then previous time. We Need to keep finding Opt Coeff
+If Last Parm then it is Optimum
+Testing Set B on channel 2
+*****Setting CoefficentSet B on Logical Id 3 ,channel 2*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=3] 
+Checking Line Activity Using 2 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 51.4600039
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 41.8600035
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 39.9400043
+Echo Rejection Factor = 329.500027 
+ Previous Optimum Time = 245.580001, Current Optimum Time = 329.500027
+Current Optimum Time is > then previous time. We Need to keep finding Opt Coeff
+If Last Parm then it is Optimum
+Testing Set C on channel 2
+*****Setting CoefficentSet C on Logical Id 3 ,channel 2*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=3] 
+Checking Line Activity Using 2 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 40.4199982
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 47.3400021
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 41.880002
+Echo Rejection Factor = 298.239999 
+ Previous Optimum Time = 329.500027, Current Optimum Time = 298.239999
+Current Optimum Time is less then previous time. We have optimized the circuit
+Testing Set D on channel 2
+*****Setting CoefficentSet D on Logical Id 3 ,channel 2*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=3] 
+Checking Line Activity Using 2 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 35.0199986
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 35.8799982
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 32.04
+Echo Rejection Factor = 243.879991 
+ Previous Optimum Time = 329.500027, Current Optimum Time = 243.879991
+Current Optimum Time is less then previous time. We have optimized the circuit
+Testing Set E on channel 2
+*****Setting CoefficentSet E on Logical Id 3 ,channel 2*****
+Testing
+Checking Line Activity Using(DialString=L3) On [VoiceDevice=3] 
+Checking Line Activity Using 2 , DialString = L3
+Opening and Playing File LineAdapt510.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt510.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt510.wav = 30.5599976
+Opening and Playing File LineAdapt1020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt1020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt1020.wav = 28.6999989
+Opening and Playing File LineAdapt2020.wav
+Dialing (dialstrg=,3) On [VoiceDevice=3] 
+Successful Call On ChannelNumber 2 , DialString = ,3
+0 Call Status event was found while Dialing
+
+Silence Detected On Line
+Opening and Playing File LineAdapt2020.wav
+Play was stopped with a Non Silence event
+Measured Delay Value for file LineAdapt2020.wav = 24.6999979
+Echo Rejection Factor = 204.339986 
+ Previous Optimum Time = 329.500027, Current Optimum Time = 204.339986
+Current Optimum Time is less then previous time. We have optimized the circuit
+------------------------------------------------
+*Optimum Setting Found For BoardName D/41JCT-LS #3 in slot 4/7 Channel 2*
+*CoefficentSet= RXGAIN_0 OptimumCoefficent id = B*
+*LAU Time =329.500027**
+------------------------------------------------
+*****Setting CoefficentSet B on Logical Id 3 ,channel 2*****
+
+--Downloading Board with gain RXGAIN_0--
+*****Setting CoefficentSet B on Logical Id 3 ,channel 1*****
+
+--Downloading Board with gain RXGAIN_0--
+*****Setting CoefficentSet B on Logical Id 3 ,channel 2*****
+Saving Configured results to File C:\ProgramData\Dialogic\cfg\LineAdaptOptCoef.xml
+Clean up in Progress! Please Wait!
+
+In Board Destructor D/41JCT-LS #3 in slot 4/7
+Closing Channel 1 in Board Destructor
+Deleting Channel 1 in Board Destructor
+Leaving Channel Destructor
+Closing Channel 2 in Board Destructor
+Deleting Channel 2 in Board Destructor
+Leaving Channel Destructor
+Deleting Channel 3 in Board Destructor
+Leaving Channel Destructor
+Deleting Channel 4 in Board Destructor
+Leaving Channel Destructor
+Leaving Board D/41JCT-LS #3 in slot 4/7 Destructor
+- Terminating Lib
