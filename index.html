@@ -1,31 +1,25 @@
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/technotite/technotite/raw/master/tlabs-logo.png" alt="" width="300" height="300" /></p>
-
-<center>
-
-<div id="clockbox"></div>
-
-<script type="text/javascript">
-var tday=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
-var tmonth=["January","February","March","April","May","June","July","August","September","October","November","December"];
-
-function GetClock(){
-var d=new Date();
-var nday=d.getDay(),nmonth=d.getMonth(),ndate=d.getDate(),nyear=d.getFullYear();
-var nhour=d.getHours(),nmin=d.getMinutes(),nsec=d.getSeconds(),ap;
-
-if(nhour==0){ap=" AM";nhour=12;}
-else if(nhour<12){ap=" AM";}
-else if(nhour==12){ap=" PM";}
-else if(nhour>12){ap=" PM";nhour-=12;}
-
-if(nmin<=9) nmin="0"+nmin;
-if(nsec<=9) nsec="0"+nsec;
-
-var clocktext=""+tday[nday]+", "+tmonth[nmonth]+" "+ndate+", "+nyear+" "+nhour+":"+nmin+":"+nsec+ap+"";
-document.getElementById('clockbox').innerHTML=clocktext;
-}
-
-GetClock();
-setInterval(GetClock,1000);
-</script>
-</center>
+<nav>
+    <p><a href="#menu">Menu ↓</a></p>
+</nav>
+<h1 id="about">About</h1>
+<p>Hi there, welcome to the website for <i><strong>KN SYSTEMS.</strong></i>&nbsp;</p>
+<p>By day I work with (embedded) software, and in my free time I repair mobile phones for people local to Sullivan, MO as a small business – under the name <i><strong>KN SYSTEMS.</strong></i></p>
+<h2 id="about-this-website">About this website</h2>
+<p>This website provides general info regarding <i><strong>KN SYSTEMS </strong></i>and will help you contact me to coordinate the repair process for your device.</p>
+<h2 id="contact">Contact</h2>
+<p>I do not have Twitter, LinkedIn or Instagram accounts. This is intentional, but it doesn’t mean you shouldn’t reach out to me about anything.</p>
+<p>The best way to keep in touch with me is via email.</p>
+<ul>
+    <li>Email: <a href="mailto:knsystems@protonmail.com">knsystems@protonmail.com</a></li>
+    <li>Business Phone: (573) 668-8825</li>
+</ul>
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnQNwwmi9u3s-uxDWDFmH561MmQ0npEPYWVxoynXmnbGvU7w/viewform?embedded=true" width="640" height="1223" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
+<footer>
+    <hr>
+    <h3 id="menu">Navigation</h3>
+    <ul>
+        <li><a href="index.html">About</a></li>
+        <li><a href="#top">Back to top ↑</a></li>
+    </ul>
+    <p><small>The content for this site is </small><a target="_blank" rel="noopener noreferrer" href="http://creativecommons.org/licenses/by-sa/4.0/"><small>CC BY-SA 4.0</small></a><small>.</small><br><small>The </small><small>code for this site</small></a><small> is </small><a target="_blank" rel="noopener noreferrer" href="https://git.sr.ht/~davidjenei/davidjenei.com/tree/main/item/LICENSE"><small>MIT</small></a><small>.</small><br><small>Made with markdown, </small><a target="_blank" rel="noopener noreferrer" href="https://kristaps.bsd.lv/lowdown/"><small>lowdown</small></a><small> and </small><a target="_blank" rel="noopener noreferrer" href="https://www.gnu.org/software/make/"><small>make</small></a><small>. Inspired by </small><a target="_blank" rel="noopener noreferrer" href="https://git.sr.ht/~bt/barf"><small>barf</small></a><small>.</small></p>
+</footer>
